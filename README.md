@@ -6,6 +6,5 @@
 
 ## Here are some of my projects!
   'Please' take a look and let me know what you think! ✨
-  1.
-  2. [https://github.com/tamianna/Library_1.git]
-  3. [https://github.com/tamianna/se_project_coffeeshop.git]
+  1 [https://github.com/tamianna/Library_1.git]
+  2 [https://github.com/tamianna/se_project_coffeeshop.git]
