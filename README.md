@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I come from a family of 9!
 
 ## Here are some of my projects!
-  'Please' take a look and let me know what you think! ✨
-  1 [https://github.com/tamianna/Library_1.git]
-  2 [https://github.com/tamianna/se_project_coffeeshop.git]
+  `Please` take a look and let me know what you think! ✨
+  - [https://github.com/tamianna/Library_1.git]
+  - [https://github.com/tamianna/se_project_coffeeshop.git]
