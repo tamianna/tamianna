@@ -8,3 +8,4 @@
   `Please` take a look and let me know what you think! ✨
   - [https://github.com/tamianna/Library_1.git]
   - [https://github.com/tamianna/se_project_coffeeshop.git]
+  - [https://github.com/tamianna/se_project_spots.git]
