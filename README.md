@@ -1,4 +1,4 @@
-# Hi, I'm Tamianna Hernandez - aka Tami! <img src="./images/Hi.gif" height="32" />
+### Hi, I'm Tamianna Hernandez - aka Tami! <img src="./images/Hi.gif" height="32" />
 
 ## A passionate up and coming Developer!
 
