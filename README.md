@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Tamianna Hernandez - aka Tami! 👋</h1>
+# Hi, I'm Tamianna Hernandez - aka Tami! <img src="./images/Hi.gif" height="32" />
 
-<h3 align="center">A passionate up and coming Developer!</h3>
+## A passionate up and coming Developer!
 
 - 🔭 I’m currently working on **becoming a Software Engineer!**
 
@@ -8,31 +8,53 @@
 
 - ⚡ Fun fact **I come from a family of nine!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:tamianna.h@gmail.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/tamianna-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-Icon" height="30" width="40" /></a>
-<a href="https://discord.gg/Annaimat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord-Icon" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-_<h4 align="center">Don't hesitate to get in touch!</h4>_
+[<img align="left" alt="Tamianna | gmail" height="22px" src="./images/Gmail.png" />][gmail]
+
+[<img align="left" alt="Tamianna | linkedin" height="22px" src="./images/linkedin-tile.svg" />][linkedin]
+
+<br />
+
+<p align=center>
+<em>Don't hestitae to get in touch!</em>
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a herf="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="40" height="40" /> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://about.canva.com/?utm_source=vectorlogozone&utm_medium=referrer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> </a>
-</p>
+### Languages and Tools:
 
-_<h4 align="center" >Note: The 'Most Used Languages' chart doesn't indicate my skill level, it's a GitHub metric of which languages I have the most coding of on GitHub.</h3>_
+[<code>
+<img alt="Visual studio code" width="26px" src="./images/visualstudio_code-icon.svg" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="CSS" width="26px" src="./images/w3_css-official.svg" />
+</code>](https://www.w3schools.com/css/)
+[<code>
+<img alt="HTML" width="26px" src="./images/w3_html5-icon.svg" />
+</code>](https://www.w3.org/html/)
+[<code>
+<img alt="JavaScript" width="26px" src="./images/javascript-icon.svg" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="Git" width="26px" src="./images/git-scm-icon.svg" />
+</code>](https://git-scm.com/)
+[<code>
+<img alt="Figma" width="26px" src="./images/figma-icon.svg" />
+</code>](https://www.figma.com/)
+[<code>
+<img alt="Canva" width="26px" src="./images/canva-icon.svg" />
+</code>](https://about.canva.com/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamianna&show_icons=true&locale=en&layout=compact" alt="most used languages" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamianna&show_icons=true&locale=en" alt="github stats" /></p>
+#### _Note: The 'Most Used Languages' chart doesn't indicate my skill level, it's a GitHub metric of which languages I have the most coding of on GitHub._
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamianna&" alt="streaks" /></p>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=tamianna&show_icons=true&locale=en&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamianna&show_icons=true&locale=en&layout=compact" alt="Tamianna's most used languages" />
+</a>
+
+---
+
+[gmail]: mailto:tamianna.h@gmail.com
+[linkedin]: https://www.linkedin.com/in/tamianna-hernandez-678b24275/
