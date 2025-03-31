@@ -1,5 +1,12 @@
 ### Hi, I'm Tamianna Hernandez - aka Tami! <img src="./images/Hi.gif" height="32" />
 
+(Quite a few people don't know how to pronounce my full name, so it is easier to go by Tami!)
+I have 7 years of customer service experience!
+I have worked for Walmart, in dentistry, and Bentonville Public Schools since I started working in high school! Along the way, I have also acquired my CDL Class B!
+I believe myself to be a quick learner, and once I get going with a new skill... I am very efficient! I am a hard worker and like to stay busy!
+
+As someone who grew up being artistic and loving art, I have a keen eye for details. I like to make sure everything is how it should be or as "perfect" as it can be!✨
+
 ## A passionate up and coming Developer!
 
 - 🔭 I’m currently working on **becoming a Software Engineer!**
