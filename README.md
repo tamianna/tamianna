@@ -1,11 +1,12 @@
 ### Hi, I'm Tamianna Hernandez - aka Tami! <img src="./images/Hi.gif" height="32" />
 
 (Quite a few people don't know how to pronounce my full name, so it is easier to go by Tami!)
-I have 7 years of customer service experience!
-I have worked for Walmart, in dentistry, and Bentonville Public Schools since I started working in high school! Along the way, I have also acquired my CDL Class B!
-I believe myself to be a quick learner, and once I get going with a new skill... I am very efficient! I am a hard worker and like to stay busy!
 
-As someone who grew up being artistic and loving art, I have a keen eye for details. I like to make sure everything is how it should be or as "perfect" as it can be!✨
+With 7 years of customer service experience 💬, I’ve mastered the art of communication, staying adaptable, and getting things done efficiently. I’m a quick learner who loves staying busy and tackling new challenges head-on 💪🏽.
+
+My artistic background 🎨 gives me a sharp eye for detail and a passion for creating things that not only work well but look great too. Now, I’m channeling that creativity into tech through TripleTen’s Software Engineering Bootcamp 💻—where I’ve been building real-world projects using HTML, CSS, and JavaScript. From crafting clean layouts to bringing interactive features to life, I’m learning how to build functional, user-friendly web pages, websites, and applications from the ground up. ✨
+
+Every day I code, I’m sharpening my skills, solving problems, and loving the process. I’m excited to keep growing and bring energy, precision, and creativity to the tech world! 🚀
 
 ## A passionate up and coming Developer!
 
