@@ -4,7 +4,7 @@
 
 With 7 years of customer service experience 💬, I’ve mastered the art of communication, staying adaptable, and getting things done efficiently. I’m a quick learner who loves staying busy and tackling new challenges head-on 💪🏽.
 
-My artistic background 🎨 gives me a sharp eye for detail and a passion for creating things that not only work well but look great too. Now, I’m channeling that creativity into tech through TripleTen’s Software Engineering Bootcamp 💻—where I’ve been building real-world projects using HTML, CSS, and JavaScript. From crafting clean layouts to bringing interactive features to life, I’m learning how to build functional, user-friendly web pages, websites, and applications from the ground up. ✨
+My artistic background 🎨 gives me a sharp eye for detail and a passion for creating things that not only work well but look great too. Now, I’m channeling that creativity into tech through TripleTen’s Software Engineering Bootcamp 💻—where I’ve been building real-world projects using HTML, CSS, JavaScript, and React. From crafting clean layouts to bringing interactive features to life, I’m learning how to build functional, user-friendly web pages, websites, and applications from the ground up. ✨
 
 Every day I code, I’m sharpening my skills, solving problems, and loving the process. I’m excited to keep growing and bring energy, precision, and creativity to the tech world! 🚀
 
@@ -44,6 +44,9 @@ Every day I code, I’m sharpening my skills, solving problems, and loving the p
 [<code>
 <img alt="JavaScript" width="26px" src="./images/javascript-icon.svg" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="React" width="26px" src="./images/react.svg" />
+</code>](https://react.dev/)
 [<code>
 <img alt="Git" width="26px" src="./images/git-scm-icon.svg" />
 </code>](https://git-scm.com/)
